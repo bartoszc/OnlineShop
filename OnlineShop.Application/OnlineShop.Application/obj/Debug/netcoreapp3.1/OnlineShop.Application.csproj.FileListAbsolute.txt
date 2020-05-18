@@ -1,0 +1,508 @@
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.StaticWebAssets.xml
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.exe
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.deps.json
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.runtimeconfig.json
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.runtimeconfig.dev.json
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.pdb
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.Views.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.Views.pdb
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.csprojAssemblyReference.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.csproj.CoreCompileInputs.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.RazorAssemblyInfo.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.RazorAssemblyInfo.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.AssemblyInfoInputs.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.AssemblyInfo.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.TagHelpers.input.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.TagHelpers.output.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.RazorCoreGenerate.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Card\Create.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Card\Delete.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Card\Details.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Card\Edit.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Card\Index.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Category\Details.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrdeDetails\Create.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrdeDetails\Delete.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrdeDetails\Details.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrdeDetails\Edit.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrdeDetails\Index.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Create.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Delete.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Details.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Edit.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Index.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Promotion\Create.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Promotion\Delete.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Promotion\Details.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Promotion\Edit.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Promotion\Index.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.RazorTargetAssemblyInfo.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.RazorTargetAssemblyInfo.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.Views.pdb
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.csproj.CopyComplete
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.Application.StaticWebAssets.Manifest.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.Application.StaticWebAssets.xml
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.pdb
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.genruntimeconfig.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Backend.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Backend.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\appsettings.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.StaticWebAssets.xml
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.exe
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.deps.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.runtimeconfig.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.runtimeconfig.dev.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.Views.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Application.Views.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Backend.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\bin\Debug\netcoreapp3.1\OnlineShop.Backend.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.csprojAssemblyReference.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.csproj.CoreCompileInputs.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.MvcApplicationPartsAssemblyInfo.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.MvcApplicationPartsAssemblyInfo.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.RazorAssemblyInfo.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.RazorAssemblyInfo.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.AssemblyInfoInputs.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.AssemblyInfo.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.TagHelpers.input.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.TagHelpers.output.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.RazorCoreGenerate.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Card\Create.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Card\Delete.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Card\Details.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Card\Edit.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Card\Index.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Category\Delete.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Category\Details.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Promotion\Create.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Promotion\Delete.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Promotion\Details.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Promotion\Edit.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Promotion\Index.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.RazorTargetAssemblyInfo.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.RazorTargetAssemblyInfo.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.Views.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.csproj.CopyComplete
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.Application.StaticWebAssets.Manifest.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.Application.StaticWebAssets.xml
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\OnlineShop.Application.genruntimeconfig.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Create.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Delete.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Details.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Edit.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Index.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Create.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Delete.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Edit.cshtml.g.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs

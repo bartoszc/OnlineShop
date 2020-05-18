@@ -1,0 +1,12 @@
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\bin\Debug\netcoreapp3.1\OnlineShop.Backend.deps.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\bin\Debug\netcoreapp3.1\OnlineShop.Backend.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\bin\Debug\netcoreapp3.1\OnlineShop.Backend.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\obj\Debug\netcoreapp3.1\OnlineShop.Backend.AssemblyInfoInputs.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\obj\Debug\netcoreapp3.1\OnlineShop.Backend.AssemblyInfo.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\obj\Debug\netcoreapp3.1\OnlineShop.Backend.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\obj\Debug\netcoreapp3.1\OnlineShop.Backend.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\bin\Debug\netcoreapp3.1\OnlineShop.Backend.runtimeconfig.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\bin\Debug\netcoreapp3.1\OnlineShop.Backend.runtimeconfig.dev.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\obj\Debug\netcoreapp3.1\OnlineShop.Backend.genruntimeconfig.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\obj\Debug\netcoreapp3.1\OnlineShop.Backend.csproj.CoreCompileInputs.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Backend\obj\Debug\netcoreapp3.1\OnlineShop.Backend.csprojAssemblyReference.cache

@@ -1,0 +1,33 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[tCards] (Table)
+       [dbo].[tCategories] (Table)
+       [dbo].[tOrderDetails] (Table)
+       [dbo].[tOrders] (Table)
+       [dbo].[tProducts] (Table)
+       [dbo].[tPromotions] (Table)
+       [dbo].[tUsers] (Table)
+       [dbo].[FK_tOrderDetails_Products] (Foreign Key)
+       [dbo].[FK_tOrderDetails_Promotions] (Foreign Key)
+       [dbo].[FK_tOrders_OrderDetails] (Foreign Key)
+       [dbo].[FK_tOrders_Users] (Foreign Key)
+       [dbo].[FK_tProducts_tCategories] (Foreign Key)
+       [dbo].[tCards].[MS_Description] (Extended Property)
+       [dbo].[tCategories].[MS_Description] (Extended Property)
+       [dbo].[tOrderDetails].[MS_Description] (Extended Property)
+       [dbo].[tOrders].[MS_Description] (Extended Property)
+       [dbo].[tProducts].[MS_Description] (Extended Property)
+       [dbo].[tPromotions].[MS_Description] (Extended Property)
+       [dbo].[tUsers].[MS_Description] (Extended Property)
+
+** Supporting actions

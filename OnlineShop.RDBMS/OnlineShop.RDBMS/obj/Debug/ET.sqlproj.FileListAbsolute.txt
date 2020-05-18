@@ -1,0 +1,12 @@
+C:\ET\RDBMS\ET\ET\bin\Debug\ET.dacpac
+C:\ET\RDBMS\ET\ET\bin\Debug\ET.dll
+C:\ET\RDBMS\ET\ET\bin\Debug\ET.pdb
+C:\ET\RDBMS\ET\ET\obj\Debug\ET.sqlprojAssemblyReference.cache
+C:\ET\RDBMS\ET\ET\obj\Debug\ET.dll
+C:\ET\RDBMS\ET\ET\obj\Debug\ET.pdb
+C:\Source\Repos\OnlineShop\RDBMS\ET\ET\bin\Debug\ET.dacpac
+C:\Source\Repos\OnlineShop\RDBMS\ET\ET\bin\Debug\ET.dll
+C:\Source\Repos\OnlineShop\RDBMS\ET\ET\bin\Debug\ET.pdb
+C:\Source\Repos\OnlineShop\RDBMS\ET\ET\obj\Debug\ET.sqlprojAssemblyReference.cache
+C:\Source\Repos\OnlineShop\RDBMS\ET\ET\obj\Debug\ET.dll
+C:\Source\Repos\OnlineShop\RDBMS\ET\ET\obj\Debug\ET.pdb

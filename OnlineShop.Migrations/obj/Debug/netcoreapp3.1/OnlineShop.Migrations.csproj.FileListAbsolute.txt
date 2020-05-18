@@ -1,0 +1,29 @@
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Migrations.deps.json
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Migrations.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Migrations.pdb
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.csproj.CoreCompileInputs.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.AssemblyInfoInputs.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.AssemblyInfo.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.csprojAssemblyReference.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.csproj.CoreCompileInputs.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.AssemblyInfoInputs.cache
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.AssemblyInfo.cs
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.Views.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.Views.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\appsettings.Development.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\appsettings.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.StaticWebAssets.xml
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.exe
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Migrations.deps.json
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Migrations.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Migrations.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Backend.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Backend.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.csproj.CopyComplete
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.pdb

@@ -1,0 +1,14 @@
+C:\Source\Repos\OnlineShop\OnlineShop.RDBMS\OnlineShop.RDBMS\bin\Debug\OnlineShop.RDBMS.dacpac
+C:\Source\Repos\OnlineShop\OnlineShop.RDBMS\OnlineShop.RDBMS\bin\Debug\ET.dll
+C:\Source\Repos\OnlineShop\OnlineShop.RDBMS\OnlineShop.RDBMS\bin\Debug\ET.pdb
+C:\Source\Repos\OnlineShop\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\ET.dll
+C:\Source\Repos\OnlineShop\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\ET.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\bin\Debug\OnlineShop.RDBMS.dacpac
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\bin\Debug\ET.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\bin\Debug\ET.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\ET.dll
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\ET.pdb
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\Model.xml
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\refactor.xml
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\postdeploy.sql
+P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\predeploy.sql
