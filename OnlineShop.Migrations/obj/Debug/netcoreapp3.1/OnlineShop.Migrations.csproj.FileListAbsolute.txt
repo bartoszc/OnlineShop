@@ -27,3 +27,16 @@ P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-mas
 P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.csproj.CopyComplete
 P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.dll
 P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.pdb
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.Views.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.Views.pdb
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.StaticWebAssets.xml
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.exe
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Backend.dll
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Application.pdb
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\bin\Debug\netcoreapp3.1\OnlineShop.Backend.pdb
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.csprojAssemblyReference.cache
+C:\Source\Repos\OnlineShop\OnlineShop.Migrations\obj\Debug\netcoreapp3.1\OnlineShop.Migrations.csproj.CopyComplete

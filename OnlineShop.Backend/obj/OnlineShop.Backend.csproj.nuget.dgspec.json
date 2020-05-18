@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "P:\\___Pendrive64GB\\Mentoring Bartosz\\OnlineShop-master (1) - Copy\\OnlineShop-master\\OnlineShop.Backend\\OnlineShop.Backend.csproj": {}
+    "C:\\Source\\Repos\\OnlineShop\\OnlineShop.Backend\\OnlineShop.Backend.csproj": {}
   },
   "projects": {
-    "P:\\___Pendrive64GB\\Mentoring Bartosz\\OnlineShop-master (1) - Copy\\OnlineShop-master\\OnlineShop.Backend\\OnlineShop.Backend.csproj": {
+    "C:\\Source\\Repos\\OnlineShop\\OnlineShop.Backend\\OnlineShop.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\___Pendrive64GB\\Mentoring Bartosz\\OnlineShop-master (1) - Copy\\OnlineShop-master\\OnlineShop.Backend\\OnlineShop.Backend.csproj",
+        "projectUniqueName": "C:\\Source\\Repos\\OnlineShop\\OnlineShop.Backend\\OnlineShop.Backend.csproj",
         "projectName": "OnlineShop.Backend",
-        "projectPath": "P:\\___Pendrive64GB\\Mentoring Bartosz\\OnlineShop-master (1) - Copy\\OnlineShop-master\\OnlineShop.Backend\\OnlineShop.Backend.csproj",
-        "packagesPath": "C:\\Users\\Beata\\.nuget\\packages\\",
-        "outputPath": "P:\\___Pendrive64GB\\Mentoring Bartosz\\OnlineShop-master (1) - Copy\\OnlineShop-master\\OnlineShop.Backend\\obj\\",
+        "projectPath": "C:\\Source\\Repos\\OnlineShop\\OnlineShop.Backend\\OnlineShop.Backend.csproj",
+        "packagesPath": "C:\\Users\\bart\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\Repos\\OnlineShop\\OnlineShop.Backend\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Beata\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\bart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -73,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

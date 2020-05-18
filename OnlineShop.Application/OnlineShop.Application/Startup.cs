@@ -29,7 +29,7 @@ namespace OnlineShop.Application
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            var connection = @"Server=ZALNET-PC\SQLDEV2019;Database=ETDatabase;Trusted_Connection=True;ConnectRetryCount=0";
+            var connection = @"Server=LAPTOP-FSFV2PQQ\SQLCOURSE2019;Database=ETDatabase;Trusted_Connection=True;ConnectRetryCount=0";
             services.AddDbContext<ETDatabaseContext>(options => options.UseSqlServer(connection));
 
             services.AddDbContext<ApplicationDbContext>(options =>

@@ -12,3 +12,4 @@ P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-mas
 P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\refactor.xml
 P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\postdeploy.sql
 P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\predeploy.sql
+C:\Source\Repos\OnlineShop\OnlineShop.RDBMS\OnlineShop.RDBMS\obj\Debug\OnlineShop.RDBMS.sqlprojAssemblyReference.cache

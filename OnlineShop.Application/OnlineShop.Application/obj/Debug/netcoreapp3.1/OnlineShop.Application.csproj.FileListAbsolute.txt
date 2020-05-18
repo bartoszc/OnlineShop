@@ -210,11 +210,6 @@ C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Deb
 C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
 C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrdeDetails\Create.cshtml.g.cs
-C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrdeDetails\Delete.cshtml.g.cs
-C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrdeDetails\Details.cshtml.g.cs
-C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrdeDetails\Edit.cshtml.g.cs
-C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrdeDetails\Index.cshtml.g.cs
 C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Create.cshtml.g.cs
 C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Delete.cshtml.g.cs
 C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\OrderDetails\Details.cshtml.g.cs
@@ -506,3 +501,8 @@ P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-mas
 P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
 P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Edit.cshtml.g.cs
 P:\___Pendrive64GB\Mentoring Bartosz\OnlineShop-master (1) - Copy\OnlineShop-master\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Create.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Delete.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Edit.cshtml.g.cs
+C:\Source\Repos\OnlineShop\OnlineShop.Application\OnlineShop.Application\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
